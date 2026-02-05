@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Demo - Battery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{030F1F0E-0602-480D-BF3B-68778FBED636}|Demo - Battery\\Demo - Battery.vbproj|c:\\users\\kaan divrikli\\documents\\github\\power-distribution-management-system\\demo - battery\\demo - battery\\testform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{030F1F0E-0602-480D-BF3B-68778FBED636}|Demo - Battery\\Demo - Battery.vbproj|solutionrelative:demo - battery\\testform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F1F0E-0602-480D-BF3B-68778FBED636}|Demo - Battery\\Demo - Battery.vbproj|c:\\users\\kaan divrikli\\documents\\github\\power-distribution-management-system\\demo - battery\\demo - battery\\testform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{030F1F0E-0602-480D-BF3B-68778FBED636}|Demo - Battery\\Demo - Battery.vbproj|solutionrelative:demo - battery\\testform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030F1F0E-0602-480D-BF3B-68778FBED636}|Demo - Battery\\Demo - Battery.vbproj|c:\\users\\kaan divrikli\\documents\\github\\power-distribution-management-system\\demo - battery\\demo - battery\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{030F1F0E-0602-480D-BF3B-68778FBED636}|Demo - Battery\\Demo - Battery.vbproj|solutionrelative:demo - battery\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Demo - Battery\\Demo - Battery\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Demo - Battery\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Demo - Battery\\Demo - Battery\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Demo - Battery\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-05T00:09:47.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestForm.vb",
+              "DocumentMoniker": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Demo - Battery\\Demo - Battery\\TestForm.vb",
+              "RelativeDocumentMoniker": "Demo - Battery\\TestForm.vb",
+              "ToolTip": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Demo - Battery\\Demo - Battery\\TestForm.vb",
+              "RelativeToolTip": "Demo - Battery\\TestForm.vb",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwDwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T22:49:43.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestForm.vb [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Demo - Battery\\Demo - Battery\\TestForm.vb",
+              "RelativeDocumentMoniker": "Demo - Battery\\TestForm.vb",
+              "ToolTip": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Demo - Battery\\Demo - Battery\\TestForm.vb [Entwurf]",
+              "RelativeToolTip": "Demo - Battery\\TestForm.vb [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T22:48:47.256Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

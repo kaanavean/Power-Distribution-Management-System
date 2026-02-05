@@ -1,0 +1,22 @@
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.vbproj.AssemblyReference.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.vbproj.GenerateResource.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.AssemblyInfoInputs.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.AssemblyInfo.vb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.vbproj.CoreCompileInputs.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\Demo - Battery.exe
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\Demo - Battery.deps.json
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\Demo - Battery.runtimeconfig.json
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\Demo - Battery.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\Demo - Battery.pdb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\Power Distribution Management System.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\Power Distribution Management System.pdb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - B.1DA76A0A.Up2Date
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\refint\Demo - Battery.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.pdb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo - Battery.genruntimeconfig.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\ref\Demo - Battery.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\System.Management.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Management.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Demo - Battery\Demo - Battery\obj\Debug\net10.0-windows\Demo___Battery.TestForm.resources

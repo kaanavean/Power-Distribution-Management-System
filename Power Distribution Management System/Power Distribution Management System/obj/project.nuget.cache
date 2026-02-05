@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MYs3N8jcgbQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\Power Distribution Management System.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaan Divrikli\\.nuget\\packages\\system.codedom\\10.0.2\\system.codedom.10.0.2.nupkg.sha512",
+    "C:\\Users\\Kaan Divrikli\\.nuget\\packages\\system.management\\10.0.2\\system.management.10.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
