@@ -2,6 +2,7 @@
 
 Public Class TestForm
     Private batterySvc As New BatteryInformation()
+    Private DCLSvc As New DCL()
     Private chargeSvc As New Charging()
 
     Private Sub TestForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -86,5 +87,9 @@ Public Class TestForm
 
     Private Sub btnRefresh_Click(sender As Object, e As EventArgs) Handles btnRefresh.Click
         UpdateUI()
+    End Sub
+
+    Private Sub TestForm_DoubleClick(sender As Object, e As EventArgs) Handles Me.DoubleClick
+        DCLSvc.TriggerEmergencyAction(0)
     End Sub
 End Class

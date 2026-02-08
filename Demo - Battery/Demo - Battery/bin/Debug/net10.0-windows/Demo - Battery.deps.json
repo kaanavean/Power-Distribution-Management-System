@@ -38,6 +38,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Core Dictionary Module/0.2.1.0": {
+        "runtime": {
+          "Core Dictionary Module.dll": {
+            "assemblyVersion": "0.2.1.0",
+            "fileVersion": "0.2.1.0"
+          }
+        }
       }
     }
   },
@@ -55,6 +63,11 @@
       "hashPath": "system.management.10.0.2.nupkg.sha512"
     },
     "Power Distribution Management System/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Core Dictionary Module/0.2.1.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

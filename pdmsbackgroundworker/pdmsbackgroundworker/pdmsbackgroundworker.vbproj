@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pdmsbackgroundworker</RootNamespace>
+    <TargetFramework>net10.0-windows</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Power Distribution Management System">
+      <HintPath>..\..\Power Distribution Management System\Power Distribution Management System\bin\Debug\net10.0-windows\Power Distribution Management System.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

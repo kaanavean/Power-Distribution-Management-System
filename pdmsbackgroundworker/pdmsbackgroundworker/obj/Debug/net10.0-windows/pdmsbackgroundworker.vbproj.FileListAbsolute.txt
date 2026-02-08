@@ -1,0 +1,21 @@
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\pdmsbackgroundworker.exe
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\pdmsbackgroundworker.deps.json
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\pdmsbackgroundworker.runtimeconfig.json
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\pdmsbackgroundworker.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\pdmsbackgroundworker.pdb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Power Distribution Management System.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Core Dictionary Module.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Power Distribution Management System.pdb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Core Dictionary Module.pdb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.vbproj.AssemblyReference.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.AssemblyInfoInputs.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.AssemblyInfo.vb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.vbproj.CoreCompileInputs.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.sourcelink.json
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsback.B56BD83B.Up2Date
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\refint\pdmsbackgroundworker.dll
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.pdb
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.genruntimeconfig.cache
+C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\ref\pdmsbackgroundworker.dll

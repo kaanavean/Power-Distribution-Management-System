@@ -1,5 +1,5 @@
 Imports System.Management
-Public Class Charging
+Public Class ChargeInformation
 
     Private Structure SystemPowerStatus
         Public ACLineStatus As Byte

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|solutionrelative:power distribution management system\\dcl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|c:\\users\\kaan divrikli\\documents\\github\\power-distribution-management-system\\power distribution management system\\power distribution management system\\charging.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|solutionrelative:power distribution management system\\charging.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|c:\\users\\kaan divrikli\\documents\\github\\power-distribution-management-system\\power distribution management system\\power distribution management system\\batteryinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|solutionrelative:power distribution management system\\batteryinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|c:\\users\\kaan divrikli\\documents\\github\\power-distribution-management-system\\power distribution management system\\power distribution management system\\chargeinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|solutionrelative:power distribution management system\\chargeinformation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3429741B-C3EF-F389-8FEC-833086631EAE}|Power Distribution Management System\\Power Distribution Management System.vbproj|c:\\users\\kaan divrikli\\documents\\github\\power-distribution-management-system\\power distribution management system\\power distribution management system\\power distribution management system.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -36,22 +36,23 @@
               "RelativeDocumentMoniker": "Power Distribution Management System\\DCL.vb",
               "ToolTip": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\DCL.vb*",
               "RelativeToolTip": "Power Distribution Management System\\DCL.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-05T00:45:46.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BatteryInformation.vb",
               "DocumentMoniker": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\BatteryInformation.vb",
               "RelativeDocumentMoniker": "Power Distribution Management System\\BatteryInformation.vb",
               "ToolTip": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\BatteryInformation.vb",
               "RelativeToolTip": "Power Distribution Management System\\BatteryInformation.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-02-04T22:46:44.95Z"
+              "WhenOpened": "2026-02-04T22:46:44.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Charging.vb",
-              "DocumentMoniker": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\Charging.vb",
-              "RelativeDocumentMoniker": "Power Distribution Management System\\Charging.vb",
-              "ToolTip": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\Charging.vb",
-              "RelativeToolTip": "Power Distribution Management System\\Charging.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ChargeInformation.vb",
+              "DocumentMoniker": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\ChargeInformation.vb",
+              "RelativeDocumentMoniker": "Power Distribution Management System\\ChargeInformation.vb",
+              "ToolTip": "C:\\Users\\Kaan Divrikli\\Documents\\Github\\Power-Distribution-Management-System\\Power Distribution Management System\\Power Distribution Management System\\ChargeInformation.vb*",
+              "RelativeToolTip": "Power Distribution Management System\\ChargeInformation.vb*",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvxcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-04T22:25:12.819Z",
               "EditorCaption": ""

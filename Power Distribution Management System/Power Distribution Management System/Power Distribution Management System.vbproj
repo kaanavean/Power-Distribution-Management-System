@@ -9,4 +9,10 @@
     <PackageReference Include="System.Management" Version="10.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Core Dictionary Module">
+      <HintPath>..\..\..\Core-Dictionary-Module\Core Dictionary Module\Core Dictionary Module\bin\Debug\net6.0-windows\Core Dictionary Module.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

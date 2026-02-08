@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v10.0": {
       "Power Distribution Management System/1.0.0": {
         "dependencies": {
-          "System.Management": "10.0.2"
+          "System.Management": "10.0.2",
+          "Core Dictionary Module": "0.2.1.0"
         },
         "runtime": {
           "Power Distribution Management System.dll": {}
@@ -40,6 +41,14 @@
             "fileVersion": "10.0.225.61305"
           }
         }
+      },
+      "Core Dictionary Module/0.2.1.0": {
+        "runtime": {
+          "Core Dictionary Module.dll": {
+            "assemblyVersion": "0.2.1.0",
+            "fileVersion": "0.2.1.0"
+          }
+        }
       }
     }
   },
@@ -62,6 +71,11 @@
       "sha512": "sha512-eFftuy3i844lVKCb4lJvvjKfcvPVcW8KrAdSaIOcRL42/Fisj46hwUs8Bky+4avzMe5Snm5t7aSayOI1mybYXg==",
       "path": "system.management/10.0.2",
       "hashPath": "system.management.10.0.2.nupkg.sha512"
+    },
+    "Core Dictionary Module/0.2.1.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
