@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("pdmsbackgroundworker"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+881124c969dd536ced968b155926fcc0b7940479"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+285042a65d3c1da860d0d6d098d5d8b2d07b0b62"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("pdmsbackgroundworker"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("pdmsbackgroundworker"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

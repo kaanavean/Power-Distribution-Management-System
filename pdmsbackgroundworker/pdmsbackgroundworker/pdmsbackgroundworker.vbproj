@@ -6,10 +6,11 @@
     <TargetFramework>net10.0-windows</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="Power Distribution Management System">
-      <HintPath>..\..\Power Distribution Management System\Power Distribution Management System\bin\Debug\net10.0-windows\Power Distribution Management System.dll</HintPath>
-    </Reference>
-  </ItemGroup>
+	<ItemGroup>
+		<Reference Include="Power Distribution Management System">
+			<HintPath>C:\KAVN\System\libraries.arc\Power Distribution Management System.dll</HintPath>
+			<Private>True</Private>
+		</Reference>
+	</ItemGroup>
 
 </Project>

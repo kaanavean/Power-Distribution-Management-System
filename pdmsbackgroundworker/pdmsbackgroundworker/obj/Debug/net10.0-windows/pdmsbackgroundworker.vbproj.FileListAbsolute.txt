@@ -5,8 +5,6 @@ C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdm
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\pdmsbackgroundworker.pdb
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Power Distribution Management System.dll
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Core Dictionary Module.dll
-C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Power Distribution Management System.pdb
-C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\bin\Debug\net10.0-windows\Core Dictionary Module.pdb
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.vbproj.AssemblyReference.cache
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\pdmsbackgroundworker\pdmsbackgroundworker\obj\Debug\net10.0-windows\pdmsbackgroundworker.AssemblyInfoInputs.cache
