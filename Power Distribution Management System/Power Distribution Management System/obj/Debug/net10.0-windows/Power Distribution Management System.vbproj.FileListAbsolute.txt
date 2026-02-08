@@ -11,6 +11,5 @@ C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Pow
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Power Distribution Management System\Power Distribution Management System\obj\Debug\net10.0-windows\Power Distribution Management System.pdb
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Power Distribution Management System\Power Distribution Management System\obj\Debug\net10.0-windows\ref\Power Distribution Management System.dll
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Power Distribution Management System\Power Distribution Management System\bin\Debug\net10.0-windows\Core Dictionary Module.dll
-C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Power Distribution Management System\Power Distribution Management System\bin\Debug\net10.0-windows\Core Dictionary Module.pdb
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Power Distribution Management System\Power Distribution Management System\obj\Debug\net10.0-windows\Power Distribution Management System.sourcelink.json
 C:\Users\Kaan Divrikli\Documents\Github\Power-Distribution-Management-System\Power Distribution Management System\Power Distribution Management System\obj\Debug\net10.0-windows\Power Di.81F0B244.Up2Date

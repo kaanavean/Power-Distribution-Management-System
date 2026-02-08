@@ -11,8 +11,10 @@
 
   <ItemGroup>
     <Reference Include="Core Dictionary Module">
-      <HintPath>..\..\..\Core-Dictionary-Module\Core Dictionary Module\Core Dictionary Module\bin\Debug\net6.0-windows\Core Dictionary Module.dll</HintPath>
-    </Reference>
+		<HintPath>C:\KAVN\System\libraries.arc\Core Dictionary Module.dll</HintPath>
+		<Private>True</Private>
+	</Reference>
   </ItemGroup>
+
 
 </Project>
