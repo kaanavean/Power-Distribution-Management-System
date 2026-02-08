@@ -3,7 +3,7 @@
 Public Class TestForm
     Private batterySvc As New BatteryInformation()
     Private DCLSvc As New DCL()
-    Private chargeSvc As New Charging()
+    Private chargeSvc As New ChargeInformation()
 
     Private Sub TestForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         BatteryClock.Interval = 5000

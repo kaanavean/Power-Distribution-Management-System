@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Demo - Battery"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+881124c969dd536ced968b155926fcc0b7940479"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba6d4a4b8718e3038ff9627020d7d13d7bc9c2fc"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Demo - Battery"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Demo - Battery"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
