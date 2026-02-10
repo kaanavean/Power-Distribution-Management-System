@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Power Distribution Management System"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7ee277fb8e27a4eaa301e40636707b4fcf420b0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5edc32e534acb4adaaf26511ac2d12b6309ea645"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Power Distribution Management System"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Power Distribution Management System"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
